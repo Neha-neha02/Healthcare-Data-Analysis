@@ -61,7 +61,7 @@ The Power BI dashboard includes multiple visualizations such as:
 ## 📸 Dashboard Preview
 (Add your screenshot below)
 
-![HDA.jpeg](dashboard.jpeg)
+![Dashboard](HDA.jpeg)
 
 ---
 
